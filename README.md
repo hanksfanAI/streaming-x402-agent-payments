@@ -38,7 +38,7 @@ Together, they make autonomous, sustainable **machine-to-machine (M2M)** collabo
 - **Consumer simplicity**: Users can interact with agents without managing multiple payment URLs or subscriptions.
 - **Agent composability**: Multiple agents can collaborate, each settling usage continuously with minimal friction.
 
-## Demo Example
+## Conceptual Demo
 A simple conceptual demo showing streaming payments between agents:
 
 ```text
@@ -55,6 +55,7 @@ A simple conceptual demo showing streaming payments between agents:
 4. Agent A receives output, logs payment success
 
 5. Settlement occurs in real-time or periodically
+```
 
 ## Highlights:
 	•	Streaming: Each call triggers a micro-payment
